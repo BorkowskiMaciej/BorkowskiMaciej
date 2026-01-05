@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, there 👋
 
-<!--
-**BorkowskiMaciej/BorkowskiMaciej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Maciej Borkowski, a Java Software Engineer specializing in backend microservices within distributed systems. I enjoy building scalable, maintainable applications with clean architecture and modern practices.
 
-Here are some ideas to get you started:
+💻 Currently, I’m working on backend projects using Spring Boot, Hibernate, and PostgreSQL. I’m also developing my skills in AWS, deploying applications, and improving my understanding of system design and architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ My toolkit includes Java 21, Spring Framework, Maven, Docker, Git/GitHub, JUnit 5, and more.
+
+🎓 I hold a Bachelor of Engineering in Data Science from Warsaw University of Technology. Some of my repositories focus on data analysis using Python, Pandas, NumPy, and Matplotlib.
+
+📫 Connect with me on LinkedIn: [linkedin.com/in/maciej1borkowski](https://www.linkedin.com/in/maciej1borkowski/)
+
+Feel free to explore my repositories to see my projects and contributions.
