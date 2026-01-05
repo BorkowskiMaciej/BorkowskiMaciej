@@ -1,6 +1,6 @@
 ### Hi, there 👋
 
-I’m Maciej Borkowski, a Java Software Engineer specializing in backend microservices within distributed systems. I enjoy building scalable, maintainable applications with clean architecture and modern practices.
+I’m Maciej, a Java Software Engineer specializing in backend microservices within distributed systems. I enjoy building scalable, maintainable applications with clean architecture and modern practices.
 
 💻 Currently, I’m working on backend projects using Spring Boot, Hibernate, and PostgreSQL. I’m also developing my skills in AWS, deploying applications, and improving my understanding of system design and architecture.
 
